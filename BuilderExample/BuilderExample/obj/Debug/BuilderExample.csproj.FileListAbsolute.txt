@@ -1,0 +1,5 @@
+D:\Projects\DesignPatternsLab\Builder\BuilderExample\BuilderExample\bin\Debug\BuilderExample.exe
+D:\Projects\DesignPatternsLab\Builder\BuilderExample\BuilderExample\bin\Debug\BuilderExample.pdb
+D:\Projects\DesignPatternsLab\Builder\BuilderExample\BuilderExample\obj\Debug\BuilderExample.csprojResolveAssemblyReference.cache
+D:\Projects\DesignPatternsLab\Builder\BuilderExample\BuilderExample\obj\Debug\BuilderExample.exe
+D:\Projects\DesignPatternsLab\Builder\BuilderExample\BuilderExample\obj\Debug\BuilderExample.pdb
